@@ -10,9 +10,11 @@ We collected combo lists that are available on (semi-)clear web, modified them a
 ## Contributing
 
 If you wish to contribute by improving the code, just create a pull request.
+
 If you think you have data that would be beneficial to the list, let us know.
 
 ## Credits
 
 [www.seq.lv](https://www.seq.lv/) - [root@seq.lv](mailto:root@seq.lv)
+
 Nils Putnins, OSCP — [np@seq.lv](mailto:np@seq.lv)
