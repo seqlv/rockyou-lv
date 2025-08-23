@@ -40,21 +40,21 @@ We collected combo lists that are available on (semi-)clear web, modified them a
 
 | Statistic | Value |
 | --- | --- |
-| Total lines processed | 165742543 |
-| Total data processed (MB) | 5178.92 |
-| Previous .lv TLD count | 170202 |
-| New .lv TLD count | 227051 |
-| Difference in .lv TLD count | 56849 |
-| Previous rockyou-lv count | 15287 |
-| New rockyou-lv count | 18596 |
-| Difference in rockyou-lv count | 3309 |
-| Processing time (seconds) | 70.58 |
+| Total lines processed | 165742022 |
+| Total data processed (MB) | 5178.91 |
+| Previous .lv TLD count | 227051 |
+| New .lv TLD count | 226530 |
+| Difference in .lv TLD count | -521 |
+| Previous rockyou-lv count | 18596 |
+| New rockyou-lv count | 18593 |
+| Difference in rockyou-lv count | -3 |
+| Processing time (seconds) | 73.07 |
 
 ### Top 10 .lv TLD Email Providers
 
 | Rank | Provider | Occurrences |
 | --- | --- | --- |
-| 1 | inbox.lv | 179566 |
+| 1 | inbox.lv | 179161 |
 | 2 | one.lv | 12137 |
 | 3 | tvnet.lv | 5390 |
 | 4 | apollo.lv | 2424 |
